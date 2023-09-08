@@ -15,7 +15,7 @@ int main()
 	b.Print();
 	
 	Car c;
-	cout << "Third car" << endl;
+	cout << "Third car " << endl;
 	c.SetM("Toyota");
 	c.SetC("White");
 	c.SetYear(2008);
