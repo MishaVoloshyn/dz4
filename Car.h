@@ -4,7 +4,7 @@ class Car
 	char* model;
 	char* color;
 	int year;
-	double price;
+	double price ;
 public:
 	Car();
 	Car(const char* m, const char* c, int y, double pr);

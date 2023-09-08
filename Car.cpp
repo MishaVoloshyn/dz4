@@ -32,7 +32,7 @@ void Car::Input()
 {
     char buffMod[20];
     char buffCol[20];
-    cout << "Enter model: ";
+    cout << "Enter model:  ";
     cin >> buffMod;
     cout << "Enter color: ";
     cin >> buffCol;
